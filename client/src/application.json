@@ -1,0 +1,13 @@
+{
+  "name": "TestApp",
+  "defaultLayout": "PhonePortrait",
+  "previewToken": "7220df15",
+  "theme": "Anchor",
+  "clientVersion": "6.1.0-dev",
+  "hidden": false,
+  "isBuiltInTemplate": false,
+  "disableSideMenu": false,
+  "offlineSupport": false,
+  "creatorId": "admin",
+  "created": 1582056832434
+}
